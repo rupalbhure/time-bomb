@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html.body{
+    width: 100%;
+    height: 100%;
+}
+.main-cont{
+    
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-77NgjHMMFX9VDTqZ8heezheh2NYnkS7jlCKzVbofBLYBq-rmwcLUwBj2lDJYDB-DXN4&usqp=CAU);
+        background-size: cover; */
+        background-color:dimgray;
+        /* border: 2px solid black; */
+        
+
+}
+
